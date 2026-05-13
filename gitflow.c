@@ -9,5 +9,5 @@ int main()
     printf("Esse é o seu número: %d?",n);
 
 
-    return 0:
+    return 0;
 }
