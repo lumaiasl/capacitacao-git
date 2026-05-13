@@ -8,4 +8,6 @@ int main()
 
     printf("Esse é o seu número: %d?",n);
 
+
+    return 0:
 }
