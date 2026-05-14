@@ -8,6 +8,10 @@ int main()
 
     printf("Esse é o seu número?: %.2d",n);
 
+    printf("Me fale um número: ")
+    scanf("%f",&n);
+    printf("o quadrado desse número é %f",n*n);
+
 
     return 0;
 }
