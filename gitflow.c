@@ -2,11 +2,11 @@
 
 int main()
 {
-    int n;
+    float n;
     printf("Digite um número para eu adivinhar: ");
-    scanf("%d",&n);
+    scanf("%f",&n);
 
-    printf("Esse é o seu número?: %d?",n);
+    printf("Esse é o seu número?: %.2d",n);
 
 
     return 0;
